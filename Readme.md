@@ -1,6 +1,6 @@
-# Internship Assignments
+# SkillCraft Technologies Internship Assignments
 
-This repository contains the assignments I completed during my internship at Skillcraft Technologies. Each assignment demonstrates my skills in frontend development, focusing on creating responsive and interactive user interfaces.
+This repository contains the assignments I completed during my internship at **SkillCraft Technologies**. Each assignment demonstrates my skills in frontend development, focusing on creating responsive and interactive user interfaces.
 
 ## Assignments
 
