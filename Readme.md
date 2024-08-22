@@ -5,25 +5,25 @@ This repository contains the assignments I completed during my internship at Ski
 ## Assignments
 
 1. **Responsive Navbar (SCT_WD_1)**
-   * Developed a fully responsive navbar.
-   * Ensured compatibility across different screen sizes and devices.
+   - Developed a fully responsive navbar.
+   - Ensured compatibility across different screen sizes and devices.
 
 2. **Stopwatch Component (SCT_WD_2)**
-   * Created a functional stopwatch component using React.
-   * Features include start, stop, reset, and lap functionality.
+   - Created a functional stopwatch component using React.
+   - Features include start, stop, reset, and lap functionality.
 
 3. **Tic Tac Toe Game (SCT_WD_3)**
-   * Developed an interactive Tic Tac Toe game in React.
-   * Implemented logic for player turns, win detection, and reset functionality.
+   - Developed an interactive Tic Tac Toe game in React.
+   - Implemented logic for player turns, win detection, and reset functionality.
 
 4. **To-Do List (SCT_WD_4)**
-   * Built a dynamic to-do list application with React.
-   * Features include adding, editing, and deleting tasks with a user-friendly interface.
+   - Built a dynamic to-do list application with React.
+   - Features include adding, editing, and deleting tasks with a user-friendly interface.
 
 ## Technologies Used
 
-* React
-* Tailwind CSS (for styling)
+- React
+- Tailwind CSS (for styling)
 
 ## How to Run
 
