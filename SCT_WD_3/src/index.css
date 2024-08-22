@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .row {
+    @apply flex gap-x-1;
+  }
+
+  .box {
+    @apply w-44 h-44 bg-zinc-800 space-x-1 rounded-md;
+  }
+}

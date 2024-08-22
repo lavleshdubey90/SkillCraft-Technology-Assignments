@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .btn {
+        @apply px-7 text-white scale-75 md:scale-100 rounded-md py-3 bg-violet-500 hover:bg-violet-600 duration-300;
+    }
+}
